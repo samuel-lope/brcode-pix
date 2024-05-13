@@ -3104,6 +3104,15 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
+qrcode-pix@5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/qrcode-pix/-/qrcode-pix-5.0.0.tgz#eacebbfb776b09361593782fc4a412b1f0599483"
+  integrity sha512-4vw/qh9bSCHi+TTFcUg04zKFwpw38mIBOIsZkwRvKfEVcfGg3xg0G2ZMq17k9QpxyIbNRcAU4zSZrQUyfJodPQ==
+  dependencies:
+    crc "^4.1.1"
+    qrcode "^1.5.0"
+    yup "^0.32.11"
+
 qrcode@^1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/qrcode/-/qrcode-1.5.0.tgz#95abb8a91fdafd86f8190f2836abbfc500c72d1b"
