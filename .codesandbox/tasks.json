@@ -11,18 +11,15 @@
   "tasks": {
     "example": {
       "name": "example",
-      "command": "yarn example",
-      "runAtStart": false
+      "command": "yarn example"
     },
     "test": {
       "name": "test",
-      "command": "yarn test",
-      "runAtStart": false
+      "command": "yarn test"
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     }
   }
 }
