@@ -1,4 +1,4 @@
-## SandBox Version
+## -- SandBox Version
 QR Code generator for the Brazilian payment system PIX
 
 [![badge-tests](https://github.com/joseviniciusnunes/qrcode-pix/workflows/Tests/badge.svg)](https://github.com/joseviniciusnunes/qrcode-pix/actions)
