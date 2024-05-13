@@ -5,7 +5,7 @@ const qrCodePix = QrCodePix({
     key: 'pix.efi@sa.arq.br', //or any PIX key
     name: 'SAMUEL LOPES',
     city: 'BRASILIA',
-    transactionId: 'wd10s1egpa',
+    txId: 'wd10s1egpa',
     // message: 'Pay me :)',
     // cep: '70000000',
     // value: 150.99,

@@ -8,7 +8,7 @@ interface QrCodePixParams {
     city: string;
     name: string;
     value?: number;
-    transactionId?: string;
+    txId?: string;
     message?: string;
     cep?: string;
     currency?: number;
