@@ -15,4 +15,5 @@ console.log(qrCodePix.payload());
 
 qrCodePix.base64().then((res) => {
     console.log(res);
+    const ImgBase64 = res;
 });
