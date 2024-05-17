@@ -1,5 +1,5 @@
 import { QrCodePix } from '../src';
-
+// BRCode Generator
 const qrCodePix = QrCodePix({
     version: '01',
     key: 'pix.efi@sa.arq.br', //or any PIX key
